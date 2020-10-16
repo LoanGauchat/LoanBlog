@@ -32,7 +32,7 @@ talksPaginate = 8 # items per page
 talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
-myname = "Loan Gacuhat"
+myname = "Loan Gauchat"
 email = "loan.gauchat@hotmail.com"
 whoami = "Computer Science graduate"
 bioImageUrl = "" # image url like http//... If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
