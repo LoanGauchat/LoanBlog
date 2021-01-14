@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>posts on blog</title>
+    <link>http://loangauchat.github.io/posts/</link>
+    <description>Recent content in posts on blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 30 Dec 2019 11:14:14 +0900</lastBuildDate><atom:link href="http://loangauchat.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Awesome links</title>
+      <link>http://loangauchat.github.io/posts/mylinks/</link>
+      <pubDate>Tue, 31 Dec 2019 00:04:50 +0900</pubDate>
+      
+      <guid>http://loangauchat.github.io/posts/mylinks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
